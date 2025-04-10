@@ -13,6 +13,13 @@ I'm a 17-year-old front-end developer passionate about building fast, clean, and
 ## 💻 Projects
 Check out my GitHub repositories to see what I’ve been working on — from landing pages to full-on front-end apps. I'm always adding new stuff and leveling up.
 
+
+## 🔗 Featured Projects
+- 🎮 [Blackjack Game](https://github.com/eyy4k/blackjack)
+- 🖼️ [Bilder Website (Image Gallery)](https://github.com/eyy4k/Bilder-Website)
+- 🌐 [Website Template](https://github.com/eyy4k/Website-Template)
+- 🗞️ [Avis Prosjekt (News Layout)](https://github.com/eyy4k/Avis-Prosjekt)
+
 ## 🎯 Goals Right Now
 - Build more real-world projects
 - Start freelancing and work with clients
