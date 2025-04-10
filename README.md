@@ -1,5 +1,8 @@
 ![Elias GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyy4k&show_icons=true&count_private=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eyy4k&theme=dark)
+
+
 
 # Elias-Olbergsveen
 General Information
